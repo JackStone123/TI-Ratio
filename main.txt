@@ -1,0 +1,39 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf370
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;\f1\fnil\fcharset0 LucidaGrande;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\f0\fs24 \cf0 :Disp "GIVE THE FIRST NUMBER"\
+:Prompt A\
+:Disp "GIVE THE SECOND NUMBER"\
+:Prompt B\
+:Check if the two numbers are zero so that we don't get any domain errors\
+:If A\uc0\u8800 0 and B\u8800 0\
+:Then\
+:Check if the numbers are floats; if yes multiply by ten\
+:While fPart(A)\uc0\u8800 0 or fPart(B)\u8800 0\
+:A*10
+\f1 \uc0\u8594 
+\f0 A\
+:B*10
+\f1 \uc0\u8594 
+\f0 B\
+:End\
+:Take the gcd of the two integers and store that in another variable\
+:gcd(A,B)
+\f1 \uc0\u8594 
+\f0 C\
+:Check if gcd is zero\
+:If C\uc0\u8800 0\
+:Then\
+:Disp A/C\
+:Disp B/C\
+:Else\
+:Is the gcd zero?\
+:Disp "0 RATIO"\
+:End\
+:Else\
+:Are the given numbers zero?\
+:Disp "0 RATIO"\
+:End}
