@@ -16,3 +16,8 @@ Examples
 500 and 2500: Returns 1:5
 400 and 300: Returns 4:3
 ```
+
+Support
+-------
+
+Having trouble? Shoot me an [email][mailto:jack@jackstonedev.com "Email"] or open an [issue][https://github.com/JackStone123/TI-Ratio/issues "Issue"].
