@@ -20,4 +20,4 @@ Examples
 Support
 -------
 
-Having trouble? Shoot me an [email][mailto:jack@jackstonedev.com "Email"] or open an [issue][https://github.com/JackStone123/TI-Ratio/issues "Issue"].
+Having trouble? Shoot me an [email](mailto:jack@jackstonedev.com "Email") or open an [issue](https://github.com/JackStone123/TI-Ratio/issues "Issue").
