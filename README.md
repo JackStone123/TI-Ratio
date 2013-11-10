@@ -20,7 +20,7 @@ Examples
 Support
 -------
 
-Having trouble? Shoot me an [email](mailto:jack@jackstonedev.com "Email") or open an [issue](https://github.com/JackStone123/TI-Ratio/issues/new "Issue").
+Having trouble? Shoot me an [email](mailto:jack@jackstonedev.com "Email") or open an [issue](https://github.com/JackStoneDev/TI-Ratio/issues/new "Issue").
 
 License
 -------
