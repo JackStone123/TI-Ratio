@@ -25,7 +25,7 @@ Having trouble? Shoot me an [email](mailto:jack@jackstonedev.com "Email") or ope
 License
 -------
 
-Copyright 2013 [Jack Stone](http://jackstonedev.com "Jack Stone").
+Copyright (c) 2013 [Jack Stone](http://jackstonedev.com "Jack Stone").
 
 TI-Ratio is licensed under an MIT License.
 
